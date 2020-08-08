@@ -51,4 +51,4 @@ Everyone likes emotes. But it's complicated to use them as a developer! That's w
 $message->sendMessage($m->createEmote("pepeOK","741677671267696715"));
 ```
 
-![output](https://imgur.com/a/Rcb9eTC)
+![output](https://i.imgur.com/TO5rLhq.png)
