@@ -55,7 +55,7 @@ class DiscordMessage {
         return "<@" . $id . ">";
     }
 
-    function createChanxnelMention($id) {
+    function createChannelMention($id) {
         return "<#" . $id . ">";
     }
 
